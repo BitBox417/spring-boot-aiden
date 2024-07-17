@@ -5,14 +5,14 @@
  MySQL：8.0.34
 
 使用到的功能
- Spring IoC
- Spring MVC
- Spring JDBC
- Spring JPA
- Spring Security
+ Spring IoC 
+ Spring MVC 
+ Spring JDBC 
+ Spring JPA 
+ Spring Security 
 
 使用到的第三方api
- PayPal 
- FireBase
- GoogleMap
+ PayPal  
+ FireBase 
+ GoogleMap 
  
